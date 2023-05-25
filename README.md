@@ -7,3 +7,6 @@
 # 목차
 - 01.Selenium ChromeDriver Auto Installer   
    -  크롬 드라이버 자동 설치 소스코드
+
+- 02.Find Elements
+  - 브라우저 내에서 DOM 요소를 찾는 방법
